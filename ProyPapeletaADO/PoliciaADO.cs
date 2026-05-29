@@ -244,7 +244,7 @@ namespace ProyPapeletaADO
                 SqlCommand cmd = new SqlCommand("SP_CONSULTAR_POLICIA", cnx);
                 cmd.CommandType = CommandType.StoredProcedure;
 
-                cmd.Parameters.Add("@COD_POLICIA", SqlDbType.Char, 6).Value = codPolciia;
+                cmd.Parameters.Add("@COD_POLICIA", SqlDbType.Char, 5).Value = codPolciia;
 
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 da.Fill(dt);
