@@ -27,6 +27,7 @@ namespace ProyPapeletaADO
                         cmd.Parameters.Add("@CALIFICACION", SqlDbType.VarChar).Value = objInfraccionBE.CALIFICACION;
                         cmd.Parameters.Add("@PUNTOS", SqlDbType.Int).Value = objInfraccionBE.PUNTOS;
                         cmd.Parameters.Add("@UIT", SqlDbType.Decimal).Value = objInfraccionBE.UIT;
+                        cmd.Parameters.Add("@ESTADO", SqlDbType.Bit).Value = objInfraccionBE.ESTADO;
                         cmd.Parameters.Add("@USU_REGISTRO", SqlDbType.VarChar).Value = objInfraccionBE.USU_REGISTRO;
 
                         cnx.Open();
@@ -57,7 +58,8 @@ namespace ProyPapeletaADO
                         cmd.Parameters.Add("@CALIFICACION", SqlDbType.VarChar).Value = objInfraccionBE.CALIFICACION;
                         cmd.Parameters.Add("@PUNTOS", SqlDbType.VarChar).Value = objInfraccionBE.PUNTOS;
                         cmd.Parameters.Add("@UIT", SqlDbType.Decimal).Value = objInfraccionBE.UIT;
-                        
+                        cmd.Parameters.Add("@ESTADO", SqlDbType.Bit).Value = objInfraccionBE.ESTADO;
+
                         cnx.Open();
                         cmd.ExecuteNonQuery();
                         return true;
@@ -123,6 +125,7 @@ namespace ProyPapeletaADO
                                 objInfraccionBE.CALIFICACION = dtr["CALIFICACION"].ToString();
                                 objInfraccionBE.PUNTOS = int.Parse(dtr["PUNTOS"].ToString());
                                 objInfraccionBE.UIT = Convert.ToDecimal(dtr["UIT"]);
+                                objInfraccionBE.ESTADO = Convert.ToBoolean(dtr["ESTADO"]);
 
 
 
