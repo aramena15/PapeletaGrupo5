@@ -1,6 +1,6 @@
 ﻿namespace ProyPapeleta_GUI
 {
-    partial class InfraccionMan05
+    partial class InfraccionMan04
     {
         /// <summary>
         /// Required designer variable.
