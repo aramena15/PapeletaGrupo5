@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="ProyPapeletaADO/ProyPapeletaADO.csproj" />
   <Project Path="ProyPapeletaBE/ProyPapeletaBE.csproj" />
   <Project Path="ProyPapeletaBL/ProyPapeletaBL.csproj" />
