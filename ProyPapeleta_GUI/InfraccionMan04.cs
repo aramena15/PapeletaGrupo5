@@ -11,12 +11,12 @@ using System.Windows.Forms;
 
 namespace ProyPapeleta_GUI
 {
-    public partial class InfraccionMan05 : Form
+    public partial class InfraccionMan04 : Form
     {
         InfraccionBE objInfraccionBE = new InfraccionBE();
         InfraccionBL objInfraccionBL = new InfraccionBL();
         DataView dtv;
-        public InfraccionMan05()
+        public InfraccionMan04()
         {
             InitializeComponent();
         }
