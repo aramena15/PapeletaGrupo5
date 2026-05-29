@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B99087C-EC14-2298-5DED-3859E055D7BE}|ProyPapeletaBL\\ProyPapeletaBL.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeletabl\\infraccionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B99087C-EC14-2298-5DED-3859E055D7BE}|ProyPapeletaBL\\ProyPapeletaBL.csproj|solutionrelative:proypapeletabl\\infraccionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABCF80F-2DEF-BD80-9B1B-113F41A5B620}|ProyPapeletaBE\\ProyPapeletaBE.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeletabe\\infraccionbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABCF80F-2DEF-BD80-9B1B-113F41A5B620}|ProyPapeletaBE\\ProyPapeletaBE.csproj|solutionrelative:proypapeletabe\\infraccionbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719FB6E3-EAE6-DBD0-0A94-8B63CAB3B63B}|ProyPapeletaADO\\ProyPapeletaADO.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeletaado\\infraccionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719FB6E3-EAE6-DBD0-0A94-8B63CAB3B63B}|ProyPapeletaADO\\ProyPapeletaADO.csproj|solutionrelative:proypapeletaado\\infraccionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeleta_gui\\policiaman03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\policiaman03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719FB6E3-EAE6-DBD0-0A94-8B63CAB3B63B}|ProyPapeletaADO\\ProyPapeletaADO.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeletaado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{719FB6E3-EAE6-DBD0-0A94-8B63CAB3B63B}|ProyPapeletaADO\\ProyPapeletaADO.csproj|solutionrelative:proypapeletaado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeleta_gui\\infraccionman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\infraccionman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeleta_gui\\infraccionman03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\infraccionman03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\proypapeleta_gui\\policiaman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\policiaman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeleta_gui\\infraccionman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\infraccionman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeleta_gui\\policiaman05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\policiaman05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\proypapeleta_gui\\policiaman05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\policiaman05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{719FB6E3-EAE6-DBD0-0A94-8B63CAB3B63B}|ProyPapeletaADO\\ProyPapeletaADO.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeletaado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{719FB6E3-EAE6-DBD0-0A94-8B63CAB3B63B}|ProyPapeletaADO\\ProyPapeletaADO.csproj|solutionrelative:proypapeletaado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeleta_gui\\clscredenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeleta_gui\\policiaman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\policiaman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\proypapeleta_gui\\policiaman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|solutionrelative:proypapeleta_gui\\policiaman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{180EAEFF-00E4-490C-868B-0A424F5EF0FE}|ProyPapeleta_GUI\\ProyPapeleta_GUI.csproj|c:\\users\\pc\\desktop\\isil\\5444\\papeleta_3capas\\proypapeleta_gui\\infractorman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,22 +94,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InfractorMan05.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfractorMan05.cs",
-              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\InfractorMan05.cs",
-              "ToolTip": "C:\\Users\\vibe coder\\Downloads\\V8 APPS\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfractorMan05.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\vibe coder\\Downloads\\V8 APPS\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfractorMan05.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "InfraccionADO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaADO\\InfraccionADO.cs",
+              "RelativeDocumentMoniker": "ProyPapeletaADO\\InfraccionADO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaADO\\InfraccionADO.cs",
+              "RelativeToolTip": "ProyPapeletaADO\\InfraccionADO.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwH8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T04:27:42.007Z"
+              "WhenOpened": "2026-05-29T04:03:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfraccionBL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaBL\\InfraccionBL.cs",
+              "RelativeDocumentMoniker": "ProyPapeletaBL\\InfraccionBL.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaBL\\InfraccionBL.cs",
+              "RelativeToolTip": "ProyPapeletaBL\\InfraccionBL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T04:03:05.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfraccionBE.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaBE\\InfraccionBE.cs",
+              "RelativeDocumentMoniker": "ProyPapeletaBE\\InfraccionBE.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaBE\\InfraccionBE.cs",
+              "RelativeToolTip": "ProyPapeletaBE\\InfraccionBE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T04:01:44.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PoliciaMan03.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan03.cs",
+              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan03.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan03.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyPapeleta_GUI\\PoliciaMan03.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T03:30:34.994Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InfraccionMan03.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfraccionMan03.cs",
+              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\InfraccionMan03.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfraccionMan03.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyPapeleta_GUI\\InfraccionMan03.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T03:28:55.569Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfraccionMan02.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfraccionMan02.cs",
+              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\InfraccionMan02.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfraccionMan02.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyPapeleta_GUI\\InfraccionMan02.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T03:28:53.279Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfraccionMan01.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfraccionMan01.cs",
+              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\InfraccionMan01.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfraccionMan01.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyPapeleta_GUI\\InfraccionMan01.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T03:28:17.431Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PoliciaMan05.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan05.cs",
+              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan05.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan05.cs [Design]",
+              "RelativeToolTip": "ProyPapeleta_GUI\\PoliciaMan05.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:47:00.069Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "PoliciaMan02.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan02.cs",
+              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan02.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan02.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyPapeleta_GUI\\PoliciaMan02.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:46:45.566Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaADO\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyPapeletaADO\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaADO\\appsettings.json",
+              "RelativeToolTip": "ProyPapeletaADO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T02:23:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "PoliciaMan02.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan02.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan02.cs",
@@ -94,55 +235,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PoliciaMan05.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan05.cs",
-              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan05.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan05.cs [Design]",
-              "RelativeToolTip": "ProyPapeleta_GUI\\PoliciaMan05.cs [Design]",
+              "DocumentIndex": 13,
+              "Title": "InfractorMan05.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfractorMan05.cs",
+              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\InfractorMan05.cs",
+              "ToolTip": "C:\\Users\\vibe coder\\Downloads\\V8 APPS\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfractorMan05.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vibe coder\\Downloads\\V8 APPS\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfractorMan05.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T03:47:00.069Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-22T04:27:42.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "PoliciaMan05.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan05.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan05.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan05.cs",
               "RelativeToolTip": "ProyPapeleta_GUI\\PoliciaMan05.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAkwLkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T03:47:13.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PoliciaMan02.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan02.cs",
-              "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan02.cs",
-              "ToolTip": "C:\\dev_visual_studio\\PA2\\v\\Papeleta_3Capas (1)\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan02.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\dev_visual_studio\\PA2\\v\\Papeleta_3Capas (1)\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan02.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T03:46:45.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaADO\\appsettings.json",
-              "RelativeDocumentMoniker": "ProyPapeletaADO\\appsettings.json",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaADO\\appsettings.json",
-              "RelativeToolTip": "ProyPapeletaADO\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-22T02:23:00.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "clsCredenciales.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\clsCredenciales.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\clsCredenciales.cs",
@@ -154,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "InfractorMan02.cs [Design]",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfractorMan02.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\InfractorMan02.cs",
@@ -165,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "MDIPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\MDIPrincipal.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\MDIPrincipal.cs",
@@ -176,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "InfractorMan02.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\InfractorMan02.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\InfractorMan02.cs",
@@ -188,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "PoliciaMan01.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan01.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan01.cs",
@@ -201,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "PoliciaADO.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeletaADO\\PoliciaADO.cs",
               "RelativeDocumentMoniker": "ProyPapeletaADO\\PoliciaADO.cs",
@@ -213,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "PoliciaMan03.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan03.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan03.cs",
@@ -221,11 +338,12 @@
               "RelativeToolTip": "ProyPapeleta_GUI\\PoliciaMan03.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAiwF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T03:43:42.922Z"
+              "WhenOpened": "2026-05-22T03:43:42.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "PoliciaMan01.cs [Design]",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ISIL\\5444\\Papeleta_3Capas\\ProyPapeleta_GUI\\PoliciaMan01.cs",
               "RelativeDocumentMoniker": "ProyPapeleta_GUI\\PoliciaMan01.cs",

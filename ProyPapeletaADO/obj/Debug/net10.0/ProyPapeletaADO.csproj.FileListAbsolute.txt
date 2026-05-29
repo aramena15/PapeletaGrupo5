@@ -220,3 +220,20 @@ C:\Users\vibe coder\Downloads\V8 APPS\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\
 C:\Users\vibe coder\Downloads\V8 APPS\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\refint\ProyPapeletaADO.dll
 C:\Users\vibe coder\Downloads\V8 APPS\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.pdb
 C:\Users\vibe coder\Downloads\V8 APPS\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ref\ProyPapeletaADO.dll
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\bin\Debug\net10.0\appsettings.json
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\bin\Debug\net10.0\ProyPapeletaADO.deps.json
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\bin\Debug\net10.0\ProyPapeletaADO.dll
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\bin\Debug\net10.0\ProyPapeletaADO.pdb
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\bin\Debug\net10.0\ProyPapeletaBE.dll
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\bin\Debug\net10.0\ProyPapeletaBE.pdb
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.AssemblyInfo.cs
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.sourcelink.json
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPape.60608AC1.Up2Date
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.dll
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\refint\ProyPapeletaADO.dll
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ProyPapeletaADO.pdb
+C:\Users\PC\Desktop\ISIL\5444\Papeleta_3Capas\ProyPapeletaADO\obj\Debug\net10.0\ref\ProyPapeletaADO.dll

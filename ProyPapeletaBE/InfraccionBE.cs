@@ -18,5 +18,7 @@ namespace ProyPapeletaBE
         public String USU_REGISTRO { get; set; }
         public DateTime FEC_ULT_MODIFICACION { get; set; }
         public String USU_ULT_MODIFICACION { get; set; }
+
+        public bool ESTADO { get; set; }
     }
 }
