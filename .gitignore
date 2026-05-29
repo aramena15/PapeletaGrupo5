@@ -1,3 +1,12 @@
+# Visual Studio
 .vs/
-obj/
+*.suo
+
+# Build output
 bin/
+obj/
+
+# Visual Studio cache
+*.user
+*.cache
+a72601ec267aca50d6ad23c3d6a20003d595d454
