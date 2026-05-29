@@ -69,27 +69,12 @@ namespace ProyPapeleta_GUI
                 MessageBox.Show("Error: " + ex.Message);
             }
         }
+        public void RefrescarGrid()
+        {
+            CargarInfractores();
+        }
         private void dtgInfractor_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            try
-            {
-                if (e.RowIndex < 0) return;
-
-                string codigo =
-                    dtgInfractor.Rows[e.RowIndex].Cells["COD_INFRACTOR"].Value.ToString();
-
-
-                InfractorMan02 frm = new InfractorMan02();
-
-                frm.Codigo = codigo;
-
-                frm.ShowDialog();
-                CargarInfractores();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error: " + ex.Message);
-            }
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -103,9 +88,17 @@ namespace ProyPapeleta_GUI
 
         private void btnInsertar_Click_1(object sender, EventArgs e)
         {
+            foreach (Form f in Application.OpenForms)
+            {
+                if (f is InfractorMan01)
+                {
+                    f.BringToFront();
+                    return;
+                }
+            }
             InfractorMan01 frm = new InfractorMan01();
             frm.Formulario = this;
-            frm.Show();
+            frm.ShowDialog();
         }
 
         private void btnActualizar_Click_1(object sender, EventArgs e)
@@ -117,9 +110,6 @@ namespace ProyPapeleta_GUI
 
         private void btnEliminar_Click_1(object sender, EventArgs e)
         {
-            InfractorMan04 frm = new InfractorMan04();
-            frm.Formulario = this;
-            frm.Show();
         }
 
         private void MostrarCantidadRegistros()
@@ -132,7 +122,7 @@ namespace ProyPapeleta_GUI
         }
 
         private void btnRefrescar_Click(object sender, EventArgs e)
-        {   
+        {
             txtFiltroo.Text = ""; // pa limpiar
         }
 
@@ -147,6 +137,32 @@ namespace ProyPapeleta_GUI
             {
                 dtv.RowFilter = $"COD_INFRACTOR LIKE '%{txtFiltroo.Text.Trim()}%'";
                 MostrarCantidadRegistros();
+            }
+        }
+
+        private void dtgInfractor_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            try
+            {
+                if (e.RowIndex < 0) return;
+
+                string codigo = dtgInfractor
+                    .Rows[e.RowIndex]
+                    .Cells["COD_INFRACTOR"]
+                    .Value
+                    .ToString();
+
+                InfractorMan02 frm = new InfractorMan02();
+
+                frm.Codigo = codigo;
+
+                frm.ShowDialog();
+
+                CargarInfractores();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message);
             }
         }
     }

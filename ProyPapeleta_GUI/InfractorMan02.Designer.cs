@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
-            grpFoto = new GroupBox();
             btnSubirFoto = new Button();
+            grpFoto = new GroupBox();
             pcbFoto = new PictureBox();
             txtNroBrevete = new TextBox();
             label12 = new Label();
@@ -71,6 +71,8 @@
             // 
             // groupBox1
             // 
+            groupBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            groupBox1.Controls.Add(btnSubirFoto);
             groupBox1.Controls.Add(grpFoto);
             groupBox1.Controls.Add(txtNroBrevete);
             groupBox1.Controls.Add(label12);
@@ -109,24 +111,10 @@
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
             groupBox1.Text = "Actualizar Datos Infractor";
-            groupBox1.Enter += groupBox1_Enter;
-            // 
-            // grpFoto
-            // 
-            grpFoto.Controls.Add(btnSubirFoto);
-            grpFoto.Controls.Add(pcbFoto);
-            grpFoto.Location = new Point(782, 587);
-            grpFoto.Margin = new Padding(4, 2, 4, 2);
-            grpFoto.Name = "grpFoto";
-            grpFoto.Padding = new Padding(4, 2, 4, 2);
-            grpFoto.Size = new Size(468, 273);
-            grpFoto.TabIndex = 32;
-            grpFoto.TabStop = false;
-            grpFoto.Text = "Foto";
             // 
             // btnSubirFoto
             // 
-            btnSubirFoto.Location = new Point(46, 102);
+            btnSubirFoto.Location = new Point(1090, 697);
             btnSubirFoto.Margin = new Padding(4, 2, 4, 2);
             btnSubirFoto.Name = "btnSubirFoto";
             btnSubirFoto.Size = new Size(150, 75);
@@ -135,12 +123,25 @@
             btnSubirFoto.UseVisualStyleBackColor = true;
             btnSubirFoto.Click += button1_Click;
             // 
+            // grpFoto
+            // 
+            grpFoto.Controls.Add(pcbFoto);
+            grpFoto.Location = new Point(782, 587);
+            grpFoto.Margin = new Padding(4, 2, 4, 2);
+            grpFoto.Name = "grpFoto";
+            grpFoto.Padding = new Padding(4, 2, 4, 2);
+            grpFoto.Size = new Size(283, 273);
+            grpFoto.TabIndex = 32;
+            grpFoto.TabStop = false;
+            grpFoto.Text = "Foto";
+            // 
             // pcbFoto
             // 
-            pcbFoto.Location = new Point(225, 38);
+            pcbFoto.Location = new Point(44, 36);
             pcbFoto.Margin = new Padding(4, 2, 4, 2);
             pcbFoto.Name = "pcbFoto";
             pcbFoto.Size = new Size(201, 203);
+            pcbFoto.SizeMode = PictureBoxSizeMode.StretchImage;
             pcbFoto.TabIndex = 31;
             pcbFoto.TabStop = false;
             // 
@@ -359,13 +360,12 @@
             lblCodigo.Name = "lblCodigo";
             lblCodigo.Size = new Size(208, 53);
             lblCodigo.TabIndex = 9;
-            lblCodigo.Click += lblCodigo_Click;
-            lblCodigo.MouseDoubleClick += lblCodigo_MouseDoubleClick;
             // 
             // txtApePaterno
             // 
             txtApePaterno.BorderStyle = BorderStyle.None;
-            txtApePaterno.Location = new Point(266, 245);
+            txtApePaterno.CharacterCasing = CharacterCasing.Upper;
+            txtApePaterno.Location = new Point(927, 160);
             txtApePaterno.Margin = new Padding(4, 2, 4, 2);
             txtApePaterno.Name = "txtApePaterno";
             txtApePaterno.Size = new Size(323, 32);
@@ -373,6 +373,7 @@
             // 
             // txtNombres
             // 
+            txtNombres.CharacterCasing = CharacterCasing.Upper;
             txtNombres.Location = new Point(188, 160);
             txtNombres.Margin = new Padding(4, 2, 4, 2);
             txtNombres.Name = "txtNombres";
@@ -381,15 +382,16 @@
             // 
             // txtApeMaterno
             // 
-            txtApeMaterno.Location = new Point(875, 245);
+            txtApeMaterno.CharacterCasing = CharacterCasing.Upper;
+            txtApeMaterno.Location = new Point(258, 252);
             txtApeMaterno.Margin = new Padding(4, 2, 4, 2);
             txtApeMaterno.Name = "txtApeMaterno";
-            txtApeMaterno.Size = new Size(375, 39);
+            txtApeMaterno.Size = new Size(331, 39);
             txtApeMaterno.TabIndex = 6;
             // 
             // txtDNI
             // 
-            txtDNI.Location = new Point(940, 160);
+            txtDNI.Location = new Point(940, 252);
             txtDNI.Margin = new Padding(4, 2, 4, 2);
             txtDNI.Name = "txtDNI";
             txtDNI.Size = new Size(310, 39);
@@ -398,7 +400,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(43, 245);
+            label5.Location = new Point(675, 160);
             label5.Margin = new Padding(4, 0, 4, 0);
             label5.Name = "label5";
             label5.Size = new Size(195, 32);
@@ -408,7 +410,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(665, 245);
+            label4.Location = new Point(45, 252);
             label4.Margin = new Padding(4, 0, 4, 0);
             label4.Name = "label4";
             label4.Size = new Size(205, 32);
@@ -418,7 +420,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(665, 160);
+            label3.Location = new Point(675, 252);
             label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
             label3.Size = new Size(60, 32);
@@ -453,8 +455,8 @@
             Controls.Add(groupBox1);
             Margin = new Padding(4, 2, 4, 2);
             Name = "InfractorMan02";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Actualizar Infractor";
-            Load += InfractorMan02_Load_1;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             grpFoto.ResumeLayout(false);

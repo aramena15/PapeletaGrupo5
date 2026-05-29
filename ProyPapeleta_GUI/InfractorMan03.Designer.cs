@@ -25,7 +25,6 @@
             txtFiltroo = new TextBox();
             dtgInfractor = new DataGridView();
             infractorBLBindingSource = new BindingSource(components);
-            btnRefrescar = new Button();
             btnEliminar = new Button();
             btnSalir = new Button();
             label3 = new Label();
@@ -40,7 +39,7 @@
             label1.AutoSize = true;
             label1.Location = new Point(58, 53);
             label1.Name = "label1";
-            label1.Size = new Size(173, 15);
+            label1.Size = new Size(350, 32);
             label1.TabIndex = 0;
             label1.Text = "Ingrese iniciales de descripción:";
             // 
@@ -54,7 +53,7 @@
             // 
             txtFiltroo.Location = new Point(442, 53);
             txtFiltroo.Name = "txtFiltroo";
-            txtFiltroo.Size = new Size(569, 23);
+            txtFiltroo.Size = new Size(569, 39);
             txtFiltroo.TabIndex = 2;
             txtFiltroo.TextChanged += txtFiltroo_TextChanged;
             // 
@@ -69,21 +68,11 @@
             dtgInfractor.RowHeadersWidth = 82;
             dtgInfractor.Size = new Size(1304, 546);
             dtgInfractor.TabIndex = 3;
-            dtgInfractor.CellContentClick += dtgInfractor_CellContentClick;
+            dtgInfractor.CellContentDoubleClick += dtgInfractor_CellDoubleClick;
             // 
             // infractorBLBindingSource
             // 
             infractorBLBindingSource.DataSource = typeof(ProyPapeletaBL.InfractorBL);
-            // 
-            // btnRefrescar
-            // 
-            btnRefrescar.Location = new Point(58, 728);
-            btnRefrescar.Name = "btnRefrescar";
-            btnRefrescar.Size = new Size(150, 46);
-            btnRefrescar.TabIndex = 4;
-            btnRefrescar.Text = "Refrescar";
-            btnRefrescar.UseVisualStyleBackColor = true;
-            btnRefrescar.Click += btnRefrescar_Click;
             // 
             // btnEliminar
             // 
@@ -108,9 +97,9 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(1109, 709);
+            label3.Location = new Point(1067, 706);
             label3.Name = "label3";
-            label3.Size = new Size(58, 15);
+            label3.Size = new Size(115, 32);
             label3.TabIndex = 9;
             label3.Text = "Registros:";
             label3.Click += label3_Click;
@@ -143,7 +132,6 @@
             Controls.Add(btnSalir);
             Controls.Add(btnInsertar);
             Controls.Add(btnEliminar);
-            Controls.Add(btnRefrescar);
             Controls.Add(dtgInfractor);
             Controls.Add(txtFiltroo);
             Controls.Add(label1);
@@ -161,7 +149,6 @@
 
         private TextBox txtFiltro;
         private DataGridView dgvInfractores;
-        private Button btnRefrescar;
         private TextBox txtRegistros;
         private Label label1;
         private Button btnEliminar;
